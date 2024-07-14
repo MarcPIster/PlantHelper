@@ -1,0 +1,6 @@
+# Gitignore
+# all with name node_modules
+node_modules
+.env
+.idea
+package-lock.json
